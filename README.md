@@ -8,4 +8,4 @@
 - 撞到墙或自己的身体游戏结束
 
 ## 在线体验
-点击这里直接玩：https://github.com/aaawonaitianshen/small-games.git
+点击这里直接玩: https://aaawonaitianshen.github.io/small-games/
